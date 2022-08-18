@@ -1,0 +1,14 @@
+.todos-container {
+    display: flex;
+    gap: 12px;
+  }
+  
+  .todo {
+    width: 270px;
+    height: 150px;
+    border: 15px rgb(139, 156, 255) solid;
+    padding : 5px;
+    border-radius: 8px;
+    margin: 20px;
+  }
+  
